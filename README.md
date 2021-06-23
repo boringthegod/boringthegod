@@ -9,7 +9,7 @@ You can also find me on [🕷][1] and [![LinkedIn][2.2]][2].
 [1.2]: https://www.zupimages.net/up/20/47/lhcj.jpg (website icon without padding)
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
-[1]: https://www.pierreceberio.com/
+[1]: https://pierreceberio.com/
 [2]: https://www.linkedin.com/in/pierre-ceberio/
 
 
