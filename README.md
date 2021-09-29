@@ -1,4 +1,4 @@
-# PierreYnov
+# boring
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=PierreYnov&count_private=true&show_icons=true&theme=dark" width="380">
 
 My name is Pierre Ceberio and I'm a infosec student/SysOps engineer. 
