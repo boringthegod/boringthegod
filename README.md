@@ -1,9 +1,9 @@
 # boring
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=boringthegod&count_private=true&show_icons=true&theme=dark" width="380">
 
-My name is Pierre Ceberio and I'm a infosec student/SysOps engineer. 
+My name is Pierre Ceberio and I'm OSINT & Security Analyst. 
 
-I'm from France, living in Bordeaux and currently working at Log'in Line.
+I'm from France, living in Bordeaux and currently working at Breachunt. Previously SysOps Engineer at Log'in Line.
 You can also find me on [🕷][1] and [![LinkedIn][2.2]][2].
 
 [1.2]: https://www.zupimages.net/up/20/47/lhcj.jpg (website icon without padding)
