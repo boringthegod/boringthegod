@@ -3,7 +3,7 @@
 
 My name is Pierre Ceberio and I'm Security Expert. 
 
-I'm from France, living in Luxembourg and currently working at Excellium. Previously OSINT & Security Analyst at BreacHunt and SysOps Engineer at Log'in Line.
+I'm from France, living in Luxembourg and currently working at Thales. Previously OSINT & Security Analyst at BreacHunt and SysOps Engineer at Log'in Line.
 You can also find me on [🕷][1] and [![LinkedIn][2.2]][2].
 
 [1.2]: https://www.zupimages.net/up/20/47/lhcj.jpg (website icon without padding)
